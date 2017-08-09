@@ -1,2 +1,4 @@
 # test
-Create a new branch is @@ quick.
+<<<<<<< HEAD
+Create a new branch is quick and simple.
+
